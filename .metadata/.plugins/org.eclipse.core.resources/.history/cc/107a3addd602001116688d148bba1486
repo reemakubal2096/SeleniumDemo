@@ -1,0 +1,10 @@
+package projects;
+
+public class basics {
+	
+	public void demo()
+	{
+		System.out.println("Hello World");
+	}
+
+}
